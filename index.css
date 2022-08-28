@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(44, 11, 66);
+}
+
+
+.pr{
+    
+    text-align: center;
+    margin-top: 200px;
+  
+    
+   
+}
+.pr img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    margin-left: 5px;
+    
+}
+.pr h1{
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.soc{
+    margin-top: 90px;
+   margin-right: 40px;
+  
+}
+.soc a{
+    margin-left: 60px;
+    font-size: 30px;
+}
